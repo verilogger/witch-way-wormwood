@@ -1,6 +1,9 @@
 # witch-way-wormwood
 Half-duplex, turn-based fantasy game with Python and TCP connectivity.
 
+TO-DO:
+- Clean up story engine
+
 == Copied/pasted directly from Google Docs unedited for now ==
 == Will be updated and cleaned up as time goes on ==
 
